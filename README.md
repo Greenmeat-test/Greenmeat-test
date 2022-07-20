@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sergey
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Git
+- 👀 I’m interested in DevOps and Automated testing
+- 🌱 I’m currently learning Jenkins
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
